@@ -31,16 +31,12 @@ h3 {
   text-align: center;
 }
 
-span {
-  color: #d9dcd6;
+img {
+  max-height: 200px;
 }
 
-nav {
-  padding-top: 15px;
-  margin-right: 20px;
-  float: right;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 20px;
+span {
+  color: #d9dcd6;
 }
 
 ul {
@@ -61,6 +57,20 @@ p {
   font-size: 16px;
 }
 
+main {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+nav {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
 summary {
   height: 800px;
   width: 100%;
@@ -78,12 +88,6 @@ article img {
 figure img {
   float: right;
   margin-left: 25px;
-}
-
-main {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
 }
 
 aside {
@@ -116,6 +120,7 @@ figure {
   background-color: #0072bb;
   color: #ffffff;
 }
+
 article {
   margin-bottom: 20px;
   padding: 50px;
@@ -125,8 +130,8 @@ article {
   color: #ffffff;
 }
 
-img {
-  max-height: 200px;
+strong {
+  font-size: 20px;
 }
 
 footer {
@@ -135,8 +140,4 @@ footer {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-}
-
-strong {
-  font-size: 20px;
 }

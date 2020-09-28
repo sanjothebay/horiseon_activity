@@ -21,6 +21,16 @@ h1 {
   font-size: 48px;
 }
 
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 span {
   color: #d9dcd6;
 }
@@ -92,11 +102,6 @@ section {
   color: #ffffff;
 }
 
-h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
 section img {
   display: block;
   margin: 10px auto;
@@ -122,11 +127,6 @@ article {
 
 img {
   max-height: 200px;
-}
-
-h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 footer {

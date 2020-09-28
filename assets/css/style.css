@@ -75,7 +75,7 @@ article img {
   margin-right: 25px;
 }
 
-#online-reputation-management img {
+figure img {
   float: right;
   margin-left: 25px;
 }
@@ -108,7 +108,7 @@ section img {
   max-width: 150px;
 }
 
-#online-reputation-management {
+figure {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;

@@ -1,8 +1,8 @@
 # tech_monterrey_horiseon_project
 
-https://sanjothebay.github.io/tech_monterrey_horiseon_project/
+https://sanjothebay.github.io/horiseon_activity/
 
-https://github.com/sanjothebay/tech_monterrey_horiseon_project
+https://github.com/sanjothebay/horiseon_activity
 
 This is my first homework assignment given to us by Technology de Monterrey Mexico Coding.
 The instruction given to us was to use semantic elements instead of divs. To fix the HTML with the CSS with a working website.
